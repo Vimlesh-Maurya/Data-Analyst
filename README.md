@@ -1,3 +1,3 @@
 # Data-Analyst
 
-# [Project one](https://github.com/Vimlesh-Maurya/Data-Analyst)
+# [SQL project](https://github.com/Vimlesh-Maurya/sql)
